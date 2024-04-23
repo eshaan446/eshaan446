@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Golang**
 
-💬 Ask me about **Next.js, React, Node.js... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Next.js, React, Node.js... or anything [here](https://www.linkedin.com/in/eshaanpandey/)**
 
 ⚡ Why did the TypeScript developer refuse to go to the party? **Because he didn't want to deal with "any" strangers!**
 
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/eshaan446/eshaan446/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
