@@ -4,17 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eshaan!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Building Beautiful Products, Squashing Bugs, and Breaking Through Technical Debt</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Golang**
+ 🌱 I’m diving deep into designing **scalable systems**
 
 💬 Ask me about **Next.js, React, Node.js... or anything [here](https://www.linkedin.com/in/eshaanpandey/)**
+
+🔭  Dedicated to crafting beautiful, user-centric products and solving complex technical challenges with creativity and expertise
 
 ⚡ Why did the TypeScript developer refuse to go to the party? **Because he didn't want to deal with "any" strangers!**
 
@@ -37,7 +38,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind,vscode,github,figma,tailwind,git,postman" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind,vscode,github,figma,tailwind,git,postman,docker" />
     <img src="https://skillicons.dev/icons?i=nodejs,nextjs,javascript,typescript,express,astro,firebase,mongodb,c,cpp,mysql,mongodb,golang,elasticsearch,googlecloud" /><br>
 </div>
 
@@ -45,7 +46,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/eshaan446/eshaan446/output/github-contribution-grid-snake.svg" />
   
